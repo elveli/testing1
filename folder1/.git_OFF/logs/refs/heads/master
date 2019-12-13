@@ -1,0 +1,8 @@
+0000000000000000000000000000000000000000 b3d6600fea6203d94a2b33d1a9ac68cae13524d6 Timo Kettunen <timokettunen@fico.com> 1573075853 -0800	clone: from https://github.com/elveli/testing1.git
+b3d6600fea6203d94a2b33d1a9ac68cae13524d6 936c054523ebb6982416757a4b5a8b5b6e6d08ef Timo Kettunen <timokettunen@fico.com> 1573077552 -0800	pull: Fast-forward
+936c054523ebb6982416757a4b5a8b5b6e6d08ef 4c5bd6b4ed7a728fb602dba86baf23fca809ed46 Timo Kettunen <timokettunen@fico.com> 1573077842 -0800	pull: Fast-forward
+4c5bd6b4ed7a728fb602dba86baf23fca809ed46 a1d778cf90faf5d5a058dfca003bf32d5e54d3da Timo Kettunen <timokettunen@fico.com> 1573079030 -0800	merge f3: Merge made by the 'recursive' strategy.
+a1d778cf90faf5d5a058dfca003bf32d5e54d3da 839f365fd29852dc70961d50c22413b3670326e2 Timo Kettunen <timokettunen@fico.com> 1573080165 -0800	commit: added stash file
+839f365fd29852dc70961d50c22413b3670326e2 91c6c07c9366cc78e5582843777a539633d77582 elveli <elveli@gmail.com> 1573097968 -0800	pull: Fast-forward
+91c6c07c9366cc78e5582843777a539633d77582 764a78fb3b5d6b61ae020b1604c7c1a636707250 elveli <elveli@gmail.com> 1573098526 -0800	merge mydevfeature1: Merge made by the 'recursive' strategy.
+764a78fb3b5d6b61ae020b1604c7c1a636707250 146d626f30aa409083bc05cbb536ef8e96513965 elveli <elveli@gmail.com> 1575942841 -0800	commit: New files added

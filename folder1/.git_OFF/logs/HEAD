@@ -1,0 +1,45 @@
+0000000000000000000000000000000000000000 b3d6600fea6203d94a2b33d1a9ac68cae13524d6 Timo Kettunen <timokettunen@fico.com> 1573075853 -0800	clone: from https://github.com/elveli/testing1.git
+b3d6600fea6203d94a2b33d1a9ac68cae13524d6 b3d6600fea6203d94a2b33d1a9ac68cae13524d6 Timo Kettunen <timokettunen@fico.com> 1573076400 -0800	checkout: moving from master to feature1
+b3d6600fea6203d94a2b33d1a9ac68cae13524d6 5d7c2f46de37d26a4a0bae07bd90ffd7e3a35347 Timo Kettunen <timokettunen@fico.com> 1573076469 -0800	commit: Feature1 file
+5d7c2f46de37d26a4a0bae07bd90ffd7e3a35347 b3d6600fea6203d94a2b33d1a9ac68cae13524d6 Timo Kettunen <timokettunen@fico.com> 1573077538 -0800	checkout: moving from feature1 to master
+b3d6600fea6203d94a2b33d1a9ac68cae13524d6 936c054523ebb6982416757a4b5a8b5b6e6d08ef Timo Kettunen <timokettunen@fico.com> 1573077552 -0800	pull: Fast-forward
+936c054523ebb6982416757a4b5a8b5b6e6d08ef 936c054523ebb6982416757a4b5a8b5b6e6d08ef Timo Kettunen <timokettunen@fico.com> 1573077590 -0800	checkout: moving from master to f2
+936c054523ebb6982416757a4b5a8b5b6e6d08ef ef4e127ae0c1eb17655dbd0560572b05528019ff Timo Kettunen <timokettunen@fico.com> 1573077650 -0800	commit: F2 file f2file.txt
+ef4e127ae0c1eb17655dbd0560572b05528019ff 936c054523ebb6982416757a4b5a8b5b6e6d08ef Timo Kettunen <timokettunen@fico.com> 1573077836 -0800	checkout: moving from f2 to master
+936c054523ebb6982416757a4b5a8b5b6e6d08ef 4c5bd6b4ed7a728fb602dba86baf23fca809ed46 Timo Kettunen <timokettunen@fico.com> 1573077842 -0800	pull: Fast-forward
+4c5bd6b4ed7a728fb602dba86baf23fca809ed46 4c5bd6b4ed7a728fb602dba86baf23fca809ed46 Timo Kettunen <timokettunen@fico.com> 1573077870 -0800	checkout: moving from master to f3
+4c5bd6b4ed7a728fb602dba86baf23fca809ed46 f111489218a8731940b94869d1baac1c0a0b9aa7 Timo Kettunen <timokettunen@fico.com> 1573078034 -0800	commit: F3 edited file f2file.txt
+f111489218a8731940b94869d1baac1c0a0b9aa7 4c5bd6b4ed7a728fb602dba86baf23fca809ed46 Timo Kettunen <timokettunen@fico.com> 1573078929 -0800	checkout: moving from f3 to master
+4c5bd6b4ed7a728fb602dba86baf23fca809ed46 4c5bd6b4ed7a728fb602dba86baf23fca809ed46 Timo Kettunen <timokettunen@fico.com> 1573078993 -0800	checkout: moving from master to origin/f3
+4c5bd6b4ed7a728fb602dba86baf23fca809ed46 4c5bd6b4ed7a728fb602dba86baf23fca809ed46 Timo Kettunen <timokettunen@fico.com> 1573079020 -0800	checkout: moving from origin/f3 to master
+4c5bd6b4ed7a728fb602dba86baf23fca809ed46 a1d778cf90faf5d5a058dfca003bf32d5e54d3da Timo Kettunen <timokettunen@fico.com> 1573079030 -0800	merge f3: Merge made by the 'recursive' strategy.
+a1d778cf90faf5d5a058dfca003bf32d5e54d3da a1d778cf90faf5d5a058dfca003bf32d5e54d3da Timo Kettunen <timokettunen@fico.com> 1573079108 -0800	checkout: moving from master to master
+a1d778cf90faf5d5a058dfca003bf32d5e54d3da a1d778cf90faf5d5a058dfca003bf32d5e54d3da Timo Kettunen <timokettunen@fico.com> 1573080000 -0800	reset: moving to HEAD
+a1d778cf90faf5d5a058dfca003bf32d5e54d3da a1d778cf90faf5d5a058dfca003bf32d5e54d3da Timo Kettunen <timokettunen@fico.com> 1573080074 -0800	reset: moving to HEAD
+a1d778cf90faf5d5a058dfca003bf32d5e54d3da 839f365fd29852dc70961d50c22413b3670326e2 Timo Kettunen <timokettunen@fico.com> 1573080165 -0800	commit: added stash file
+839f365fd29852dc70961d50c22413b3670326e2 839f365fd29852dc70961d50c22413b3670326e2 Timo Kettunen <timokettunen@fico.com> 1573096721 -0800	checkout: moving from master to development
+839f365fd29852dc70961d50c22413b3670326e2 7895272ca728e2eeb6cfa96d84e13f8961243546 Timo Kettunen <timokettunen@fico.com> 1573096855 -0800	commit: Development file
+7895272ca728e2eeb6cfa96d84e13f8961243546 7895272ca728e2eeb6cfa96d84e13f8961243546 Timo Kettunen <timokettunen@fico.com> 1573097056 -0800	checkout: moving from development to mydevfeature1
+7895272ca728e2eeb6cfa96d84e13f8961243546 7895272ca728e2eeb6cfa96d84e13f8961243546 Timo Kettunen <timokettunen@fico.com> 1573097190 -0800	checkout: moving from mydevfeature1 to development
+7895272ca728e2eeb6cfa96d84e13f8961243546 7895272ca728e2eeb6cfa96d84e13f8961243546 Timo Kettunen <timokettunen@fico.com> 1573097249 -0800	checkout: moving from development to mydevfeature1
+7895272ca728e2eeb6cfa96d84e13f8961243546 5eeddd43e78a9f83ef602d704b9bbdc23bc14ec7 Timo Kettunen <timokettunen@fico.com> 1573097280 -0800	commit: mydef feature1
+5eeddd43e78a9f83ef602d704b9bbdc23bc14ec7 7895272ca728e2eeb6cfa96d84e13f8961243546 Timo Kettunen <timokettunen@fico.com> 1573097551 -0800	checkout: moving from mydevfeature1 to development
+7895272ca728e2eeb6cfa96d84e13f8961243546 5eeddd43e78a9f83ef602d704b9bbdc23bc14ec7 Timo Kettunen <timokettunen@fico.com> 1573097561 -0800	checkout: moving from development to mydevfeature1
+5eeddd43e78a9f83ef602d704b9bbdc23bc14ec7 7895272ca728e2eeb6cfa96d84e13f8961243546 Timo Kettunen <timokettunen@fico.com> 1573097563 -0800	checkout: moving from mydevfeature1 to development
+7895272ca728e2eeb6cfa96d84e13f8961243546 3d1762b1d7801a17c1dd24212a954643a3d78fe4 Timo Kettunen <timokettunen@fico.com> 1573097584 -0800	merge mydevfeature1: Merge made by the 'recursive' strategy.
+3d1762b1d7801a17c1dd24212a954643a3d78fe4 5eeddd43e78a9f83ef602d704b9bbdc23bc14ec7 elveli <elveli@gmail.com> 1573098139 -0800	checkout: moving from development to mydevfeature1
+5eeddd43e78a9f83ef602d704b9bbdc23bc14ec7 3d1762b1d7801a17c1dd24212a954643a3d78fe4 elveli <elveli@gmail.com> 1573098198 -0800	checkout: moving from mydevfeature1 to development
+3d1762b1d7801a17c1dd24212a954643a3d78fe4 91c6c07c9366cc78e5582843777a539633d77582 elveli <elveli@gmail.com> 1573098352 -0800	checkout: moving from development to master
+91c6c07c9366cc78e5582843777a539633d77582 5eeddd43e78a9f83ef602d704b9bbdc23bc14ec7 elveli <elveli@gmail.com> 1573098390 -0800	checkout: moving from master to mydevfeature
+5eeddd43e78a9f83ef602d704b9bbdc23bc14ec7 91c6c07c9366cc78e5582843777a539633d77582 elveli <elveli@gmail.com> 1573098424 -0800	checkout: moving from mydevfeature to master
+91c6c07c9366cc78e5582843777a539633d77582 5eeddd43e78a9f83ef602d704b9bbdc23bc14ec7 elveli <elveli@gmail.com> 1573098476 -0800	checkout: moving from master to mydevfeature1
+5eeddd43e78a9f83ef602d704b9bbdc23bc14ec7 5076c66b0aaba91a86f8c2ee98f7f8ab2f079ecd elveli <elveli@gmail.com> 1573098483 -0800	merge master: Merge made by the 'recursive' strategy.
+5076c66b0aaba91a86f8c2ee98f7f8ab2f079ecd 91c6c07c9366cc78e5582843777a539633d77582 elveli <elveli@gmail.com> 1573098501 -0800	checkout: moving from mydevfeature1 to master
+91c6c07c9366cc78e5582843777a539633d77582 764a78fb3b5d6b61ae020b1604c7c1a636707250 elveli <elveli@gmail.com> 1573098526 -0800	merge mydevfeature1: Merge made by the 'recursive' strategy.
+764a78fb3b5d6b61ae020b1604c7c1a636707250 5076c66b0aaba91a86f8c2ee98f7f8ab2f079ecd elveli <elveli@gmail.com> 1573098848 -0800	checkout: moving from master to mydevfeature1
+5076c66b0aaba91a86f8c2ee98f7f8ab2f079ecd 764a78fb3b5d6b61ae020b1604c7c1a636707250 elveli <elveli@gmail.com> 1573098909 -0800	checkout: moving from mydevfeature1 to master
+764a78fb3b5d6b61ae020b1604c7c1a636707250 5076c66b0aaba91a86f8c2ee98f7f8ab2f079ecd elveli <elveli@gmail.com> 1573098927 -0800	checkout: moving from master to mydevfeature
+5076c66b0aaba91a86f8c2ee98f7f8ab2f079ecd 764a78fb3b5d6b61ae020b1604c7c1a636707250 elveli <elveli@gmail.com> 1573240510 -0800	checkout: moving from mydevfeature to master
+764a78fb3b5d6b61ae020b1604c7c1a636707250 146d626f30aa409083bc05cbb536ef8e96513965 elveli <elveli@gmail.com> 1575942841 -0800	commit: New files added
+146d626f30aa409083bc05cbb536ef8e96513965 3d1762b1d7801a17c1dd24212a954643a3d78fe4 elveli <elveli@gmail.com> 1575943132 -0800	checkout: moving from master to development
+3d1762b1d7801a17c1dd24212a954643a3d78fe4 146d626f30aa409083bc05cbb536ef8e96513965 elveli <elveli@gmail.com> 1575943160 -0800	checkout: moving from development to master
